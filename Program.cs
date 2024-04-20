@@ -49,12 +49,18 @@
 // }
 // Console.WriteLine(count);
 
-// 7.ededi sort etmek
-// int find=30;
+// 7.artan sira ile sort etmek
+// for (int _=0;_<numbers.Length-1;_++){
+// for (int i=0;i<numbers.Length-1;i++){
+// if (numbers[i+1]<numbers[i]){
+//     int temp=numbers[i];
+//     numbers[i]=numbers[i+1];
+//     numbers[i+1]=temp;
+// } 
+// }
+// }
 // for (int i=0;i<numbers.Length;i++){
-//     if (numbers[i]==find){
-//         Console.WriteLine(i);
-//     }
+//     Console.WriteLine(numbers[i]);
 // }
 
 // 8. 0 ededinin sayini tapmaq

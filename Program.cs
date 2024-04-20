@@ -90,6 +90,20 @@
 //     Console.WriteLine(numbers[i]);
 // }
 
+// 12.azalan sira ile sort etmek
+// for (int _=0;_<numbers.Length-1;_++){
+// for (int i=0;i<numbers.Length-1;i++){
+// if (numbers[i+1]>numbers[i]){
+//     int temp=numbers[i];
+//     numbers[i]=numbers[i+1];
+//     numbers[i+1]=temp;
+// } 
+// }
+// }
+// for (int i=0;i<numbers.Length;i++){
+//     Console.WriteLine(numbers[i]);
+// }
+
 
 
 
